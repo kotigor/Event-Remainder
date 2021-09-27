@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThirdLab</string>
+    <string name="settingsLabel">Settings</string>
+    <string name="share_friends">Share friends</string>
+    <string name="about">About</string>
+    <string name="aboutLabel">About</string>
+
+    <string name="shareFriends">Share friends</string>
+    <string name="shareDescription">Great app!!!</string>
+</resources>
